@@ -1,41 +1,15 @@
-# PassHere v1.1
+# PassHere
 
-[![Download Latest](https://img.shields.io/github/v/release/misterkvadrat/passhere?label=Download%20Latest&style=for-the-badge)](https://github.com/misterkvadrat/passhere/releases/latest)
+**EN:** A secure, portable local password manager with a modern graphical interface. Built with Python and customtkinter.  
+**RU:** Безопасный переносимый менеджер паролей с простым графическим интерфейсом. Написан на Python и customtkinter.
 
-**A secure, portable local password manager written in Python.**  
-Designed for physical portability and data privacy without cloud dependencies.
+## Features / Возможности
+- **EN:** AES-256 encryption (Fernet), PBKDF2 key derivation, master password rotation, toast notifications, rounded UI.
+- **RU:** Шифрование AES-256 (Fernet), ключи PBKDF2, смена мастер-пароля, всплывающие уведомления, скругленный интерфейс.
 
-**Безопасный переносимый менеджер паролей на Python.**  
-Разработан для физического переноса и конфиденциальности данных без облачных зависимостей.
+## Installation / Установка
+1. **EN:** Download `PassHere_v2.3_Windows.zip` from Releases. Extract and run `PassHere.exe`.
+2. **RU:** Скачайте `PassHere_v2.3_Windows.zip` в разделе Releases. Распакуйте и запустите `PassHere.exe`.
 
----
-
-## Key Features / Основные возможности
-
-| English | Русский |
-| :--- | :--- |
-| **Encryption**: AES-based (Fernet) with PBKDF2. | **Шифрование**: На базе AES (Fernet) с PBKDF2. |
-| **Portability**: Single `.exe` file, no Python needed. | **Переносимость**: Один файл `.exe`, Python не нужен. |
-| **Privacy**: Master password never stored; offline storage. | **Приватность**: Мастер-пароль не хранится; работа офлайн. |
-| **Bilingual**: Interface available in EN/RU. | **Двуязычность**: Интерфейс на английском и русском. |
-
----
-
-## Quick Start / Быстрый старт
-
-1.  **Clone / Клонировать**:
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/passhere.git
-    cd passhere
-    ```
-2.  **Install deps / Установить зависимости**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run / Запустить**:
-    ```bash
-    python passhere.py
-    ```
-
-## 🛠 Tech Stack / Стек технологий
-Python, Cryptography, PyInstaller, Git.
+## Tech Stack / Стек
+Python, customtkinter, cryptography, PyInstaller.
