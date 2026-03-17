@@ -9,8 +9,8 @@
 **RU:** Безопасный переносимый менеджер паролей с простым графическим интерфейсом. Написан на Python и customtkinter.
 
 ## Features / Возможности
-- **EN:** AES-256 encryption (Fernet), PBKDF2 key derivation, master password rotation, toast notifications, rounded UI.
-- **RU:** Шифрование AES-256 (Fernet), ключи PBKDF2, смена мастер-пароля, всплывающие уведомления, скругленный интерфейс.
+- **EN:** AES-256 encryption (Fernet), PBKDF2 key derivation, master password rotation, toast notifications (v2.3), UI (v2.3)/Console commands (v1.1).
+- **RU:** Шифрование AES-256 (Fernet), ключи PBKDF2, смена мастер-пароля, всплывающие уведомления (v2.3), интерфейс приложения (v2.3)/Консольные команды (v1.1).
 
 ## Installation / Установка
 1. **EN:** Download `PassHere_v2.3_Windows.zip` from Releases. Extract and run `PassHere.exe`.
