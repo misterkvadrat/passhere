@@ -1,4 +1,4 @@
-# PassHere
+# PassHere v1.0
 
 A secure, portable local password manager written in Python. Designed for physical portability and data privacy without cloud dependencies.
 
