@@ -1,0 +1,19 @@
+# Файлы с данными (никогда не коммитим!)
+vault.enc
+salt.key
+*.json
+
+# Виртуальное окружение Python
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Папки сборки PyInstaller (они большие и не нужны в исходниках)
+build/
+dist/
+*.spec
+
+# Системные файлы
+.DS_Store
+Thumbs.db
