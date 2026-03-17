@@ -1,4 +1,4 @@
-# PassHere v1.0
+# PassHere v1.1
 
 [![Download Latest](https://img.shields.io/github/v/release/misterkvadrat/passhere?label=Download%20Latest&style=for-the-badge)](https://github.com/misterkvadrat/passhere/releases/latest)
 
