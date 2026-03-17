@@ -2,15 +2,15 @@
 
 [![Download Latest](https://img.shields.io/github/v/release/misterkvadrat/passhere?label=Download%20Latest&style=for-the-badge)](https://github.com/misterkvadrat/passhere/releases/latest)
 
-🇬🇧 **A secure, portable local password manager written in Python.**  
+**A secure, portable local password manager written in Python.**  
 Designed for physical portability and data privacy without cloud dependencies.
 
-🇷🇺 **Безопасный переносимый менеджер паролей на Python.**  
+**Безопасный переносимый менеджер паролей на Python.**  
 Разработан для физического переноса и конфиденциальности данных без облачных зависимостей.
 
 ---
 
-## 🔒 Key Features / Основные возможности
+## Key Features / Основные возможности
 
 | English | Русский |
 | :--- | :--- |
@@ -21,7 +21,7 @@ Designed for physical portability and data privacy without cloud dependencies.
 
 ---
 
-## 🚀 Quick Start / Быстрый старт
+## Quick Start / Быстрый старт
 
 1.  **Clone / Клонировать**:
     ```bash
