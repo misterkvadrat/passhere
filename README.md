@@ -1,5 +1,9 @@
 # PassHere
 
+## Downloads / Загрузки
+- **Latest (GUI):** [PassHere v2.3](https://github.com/misterkvadrat/passhere/releases/tag/v2.3)
+- **Legacy (CLI):** [PassHere v1.1](https://github.com/misterkvadrat/passhere/releases/tag/v1.1)
+
 **EN:** A secure, portable local password manager with a modern graphical interface. Built with Python and customtkinter.  
 **RU:** Безопасный переносимый менеджер паролей с простым графическим интерфейсом. Написан на Python и customtkinter.
 
