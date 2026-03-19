@@ -1,4 +1,4 @@
-# PassHere
+# PassHere (pet-project)
 
 ## Downloads / Загрузки
 
